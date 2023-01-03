@@ -1,0 +1,174 @@
+h1{
+    position: absolute;
+    width: 850px;
+    height: 88px;
+    left: 219px;
+    top: 0px;
+
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 81px;
+    text-align: center;
+
+    color: rgba(255, 255, 255, 0.9);
+
+}
+p 
+{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 15px;
+}
+body{
+    margin:0;
+}
+.logo{
+    position: absolute;
+    width: 333px;
+    height: 573px;
+    left: 483px;
+    top: 69px;
+
+    background-size: 300px 570px;
+    background-image: url(images/logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#page{
+    box-sizing: border-box;
+
+    position: relative;
+    width: 1280px;
+    height: 800px;
+    margin:0px;
+    padding:0px;
+    background: #1B183E;
+}
+.bouton{
+    position: absolute;
+    width: 394px;
+    height: 90px;
+    left: 444px;
+    top: 642px;
+
+    background: #1C222F;
+    mix-blend-mode: lighten;
+    border-radius: 20px;
+}
+.text{
+    position: absolute;
+    width: 364px;
+    height: 60px;
+    left: 459px;
+    top: 657px;
+}
+.rectangle{
+    position: absolute;
+    width: 130px;
+    height: 209px;
+    left: 393px;
+    top: 207px;
+
+}
+.rectangle2{
+    position: absolute;
+    width: 130px;
+    height: 209px;
+    left: 733px;
+    top: 207px;
+
+}
+.rectangle3{
+
+    position: absolute;
+    width: 130px;
+    height: 209px;
+    left: 393px;
+    top: 500px;
+    
+}
+.rectangle4{
+    position: absolute;
+    width: 130px;
+    height: 209px;
+    left: 733px;
+    top: 500px;
+
+}
+.cadre{
+    position: absolute;
+    width: 707px;
+    height: 443px;
+    left: calc(50% - 707px/2 - 0.5px);
+    top: calc(50% - 443px/2 + 0.5px);
+
+    background: #D9D9D9;
+}
+.photo{
+    position: absolute;
+    width: 114px;
+    height: 85px;
+    left: 583px;
+    top: 673px;
+}
+.cadre2{
+    position: absolute;
+    width: 325px;
+    height: 503px;
+    left: 472px;
+    top: 181px;
+    
+    background: #D9D9D9;
+}
+.annule{
+    position: absolute;
+    width: 114px;
+    height: 85px;
+    left: 860px;
+    top: 315px;
+}
+.valide{
+    position: absolute;
+    width: 114px;
+    height: 85px;
+    left: 860px;
+    top: 457px;
+}
+.cadre3{
+    position: absolute;
+    width: 325px;
+    height: 503px;
+    left: 478px;
+    top: 231px;
+    
+    background: #D9D9D9;
+}
+.print{
+    position: absolute;
+    width: 114px;
+    height: 85px;
+    left: 859px;
+    top: 281px; 
+}
+.send{
+    position: absolute;
+    width: 114px;
+    height: 85px;
+    left: 859px;
+    top: 440px;
+}
+.later{
+    position: absolute;
+    width: 114px;
+    height: 85px;
+    left: 859px;
+    top: 599px;
+}
+
